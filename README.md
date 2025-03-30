@@ -40,8 +40,8 @@ Sou desenvolvedor Mobile e Web, atuo na área há mais de 2 anos como bolsista d
 
 <div align="center">
 
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Adryan1928&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Adryan1928's Stats](https://github-readme-stats.vercel.app/api?username=Adryan1928&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Adryan1928&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Adryan1928's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adryan1928&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 </div>
